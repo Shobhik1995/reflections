@@ -1,0 +1,25 @@
+Good practice to store older,working versions of your codebase
+so that you ca tally newer not working code against it and
+figure out what went wrong.
+
+How could having access to the entire history of a file make
+you a more efficient programmer.
+
+
+
+
+id2 b0678b161fcf74467ed3a63110557e3d6229cfa6
+id1 f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+
+
+
+Using diff to find out diffrences between two files.
+
+how can you use the commands git diff and git log to view history of files.
+
+How might using version control make you more confident to make changes that could break something?
+
+
+.git is a hidden folder that contains the metadata about the repository
+
+Each Git repository is tied to a specific directory - the directory where you ran git init. Only files from that directory (and subdirectories inside that directory) will be contained in that repository, and you can have different repositories in different directories.
